@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sagarrajak245@gmail.com**
 
-- ⚡ Fun fact **im very good at gk and curious about everything..**
+- ⚡ Fun fact **im very good at gk ,cricket and liitle bit mma and Boxing...**
 -  <a  href="https://portfolio-1-rho-one.vercel.app/"  > Portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
