@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **different open source projects come and connect with me**
 
-- 👨‍💻 All of my projects are available at [soon i will provide link..](soon i will provide link..)
+- 👨‍💻 All of my projects are available [soon i will provide link..]
 
 - 💬 Ask me about **javascript,html,tailwind css,mongoDB, physics,chemistry ,biology,psychology,entrepreneurship**
 
