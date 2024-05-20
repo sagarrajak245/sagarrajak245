@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sagar rajak...</h1>
-<h3 align="center">Engineering student at vesit(mumbai)... an aspiring full stack developer and ai/ml engineer..i love to explore and learn new things im curious about almost everything and i love problem solving.thats why i chose this field as career...my zeal to get better everyday drives me and motivates me to do better everyday..</h3>
-
+<h3 align="center">Engineering student at vesit(mumbai)... an aspiring full stack developer and ai/ml engineer..i love to explore and learn new things im curious about almost everything and i love problem solving.thats why i chose this field as career...my zeal to get better everyday  drives me and motivates me to do better things everyday..</h3>
+<h3>Feel free to correct me.... </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarrajak245&label=Profile%20views&color=0e75b6&style=flat" alt="sagarrajak245" /> </p>
 
 - 🌱 I’m currently learning **django and machine learning**
