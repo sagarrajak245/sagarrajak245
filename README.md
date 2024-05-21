@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **javascript,html,tailwind css,mongoDB, physics,chemistry ,biology,psychology,entrepreneurship**
+- 💬 Ask me about **javascript,html,tailwind css,mongoDB, physics,chemistry ,biology,psychology,entrepreneurship,current affairs,politics.**
 
 - 📫 How to reach me **sagarrajak245@gmail.com**
 
