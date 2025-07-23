@@ -3,7 +3,7 @@
 <h3>Feel free to correct me; it will help me to hone my skills.... </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarrajak245&label=Profile%20views&color=0e75b6&style=flat" alt="sagarrajak245" /> </p>
 
-- 🌱 I’m currently learning **django and machine learning**
+- 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **different open source projects come and connect with me**
 
