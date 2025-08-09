@@ -13,7 +13,7 @@ I love exploring new technologies, solving problems, and building innovative pro
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Backend Optimization, and AI Automation**  
 - 👯 I’m looking to collaborate on **Full Stack, AI/ML, and Open Source Projects**  
-- 💬 Ask me about **JavaScript, Python, Tailwind CSS, MongoDB, AI/ML, Data Science, Backend Systems**  
+- 💬 Ask me about **JavaScript, Python, Tailwind CSS, MongoDB, AI/ML, Data Science, Backend Systems,java**  
 - 📫 How to reach me: **[sagarrajak245@gmail.com](mailto:sagarrajak245@gmail.com)**  
 - ⚡ Fun fact: **I’m great at GK, cricket, and have a bit of MMA & boxing skills**  
 - 🌐 **Portfolio:** [Click Here](https://portfolio-1-rho-one.vercel.app/)  
