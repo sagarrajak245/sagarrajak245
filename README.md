@@ -21,24 +21,39 @@ I love exploring new technologies, solving problems, and building innovative pro
 ---
 
 ## 🚀 Featured Projects  
-
-### [Postify – AI-Powered Chrome Extension](https://github.com/sagarrajak245/postify_chrome_extension)  
-Automates **certificate scanning from Gmail** and generates **AI-crafted LinkedIn/Twitter posts** using GPT models, Grok, and Gemini.  
-Tech: React, TypeScript, Tailwind CSS, Gmail API, GPT-4, Gemini, Grok  
-
-### [Financial Fraud Detection](https://github.com/sagarrajak245/Fraud_transaction_detection_in_payment_app)  
-Detects fraudulent transactions in **6.3M+ records** with only **0.129% fraud rate** using XGBoost, SMOTE, and SHAP for explainability.  
-
-### [Player Tracking & Re-identification](https://github.com/sagarrajak245/computer_vision_project)  
-Real-time sports analytics using YOLOv8, DeepSORT, and StrongSORT to maintain player IDs after occlusion/re-entry.  
-
-### [Tennis Match Analysis](https://github.com/sagarrajak245/tennis_analysis_object_trackking_project/tree/main)  
-Tracks player speed, ball trajectory, and court detection using YOLO + CNN + OpenCV.  
-
-### [CrewAI Multi-Agent System](https://github.com/sagarrajak245/crewai_project)  
-Automates research, content creation, and editing using three specialized LLM agents – Researcher, Writer, and Editor.  
+Perfect 👍 Here’s a refined version with **slightly more descriptive two-line summaries** for each project while keeping it crisp and professional:
 
 ---
+
+### [Real-time WebRTC VLM Multi-Object Detection](https://github.com/sagarrajak245/Real-time-WebRTC-VLM-Multi-Object-Detection)
+
+Implemented a low-latency object detection system streaming live video via WebRTC for player speed, ball trajectory, and court recognition. Combined YOLO models, CNNs, and OpenCV to balance performance and accuracy in real time.
+
+### [Postify – AI-Powered Chrome Extension](https://github.com/sagarrajak245/postify_chrome_extension)
+
+Automates professional branding by scanning certificates directly from Gmail and generating platform-optimized posts for LinkedIn/Twitter. Uses GPT-4, Gemini, and Grok to craft engaging, context-aware content with one-click publishing.
+Tech: React, TypeScript, Tailwind CSS, Gmail API, GPT-4, Gemini, Grok
+
+### [IntelliClaim – Multi-Agent AI System for Insurance Adjudication](https://github.com/sagarrajak245/IntelliClaim-A-Multi-Agent-AI-System-for-Insurance-Adjudication)
+
+Built a full-stack AI system to automate insurance claim adjudication, reducing processing time from 30–60 minutes to under 3 minutes. Leveraged RAG, NLP, and LLM reasoning for accurate, explainable, and fully auditable claim decisions.
+
+### [Financial Fraud Detection](https://github.com/sagarrajak245/Fraud_transaction_detection_in_payment_app)
+
+Built a robust fraud detection pipeline to analyze 6.3M+ transactions with only 0.129% fraud occurrence. Applied XGBoost with SMOTE and SHAP explainability to achieve near-perfect precision and regulatory compliance.
+
+### [Player Tracking & Re-identification](https://github.com/sagarrajak245/computer_vision_project)
+
+Developed a computer vision system for real-time sports analytics that maintains consistent player IDs even after occlusion or re-entry. Integrated YOLOv8 with DeepSORT/StrongSORT for reliable detection and tracking in dynamic environments.
+
+### [CrewAI Multi-Agent System](https://github.com/sagarrajak245/crewai_project)
+
+Designed a collaborative AI system with three specialized LLM agents—Researcher, Writer, and Editor—to automate content creation workflows. Reduced manual effort by 70% while maintaining high-quality, human-like outputs across domains.
+
+---
+
+
+
 
 ## 💼 Internship  
 
