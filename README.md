@@ -26,8 +26,7 @@ Perfect 👍 Here’s a refined version with **slightly more descriptive two-lin
 ---
 
 ### [Real-time WebRTC VLM Multi-Object Detection](https://github.com/sagarrajak245/Real-time-WebRTC-VLM-Multi-Object-Detection)
-
-Implemented a low-latency object detection system streaming live video via WebRTC for player speed, ball trajectory, and court recognition. Combined YOLO models, CNNs, and OpenCV to balance performance and accuracy in real time.
+A production-ready system for real-time multi-object detection on live video streams from mobile phones via WebRTC. Features dual-mode inference (client-side WASM or server-side processing), advanced performance metrics, smart frame queue management with backpressure handling, and automatic ngrok tunneling with QR code generation.
 
 ### [Postify – AI-Powered Chrome Extension](https://github.com/sagarrajak245/postify_chrome_extension)
 
