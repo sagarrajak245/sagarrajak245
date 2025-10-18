@@ -20,10 +20,7 @@ I love exploring new technologies, solving problems, and building innovative pro
 
 ---
 
-## 🚀 Featured Projects  
-Perfect 👍 Here’s a refined version with **slightly more descriptive two-line summaries** for each project while keeping it crisp and professional:
-
----
+## 🚀 Featured Projects  :
 
 ### [Real-time WebRTC VLM Multi-Object Detection](https://github.com/sagarrajak245/Real-time-WebRTC-VLM-Multi-Object-Detection)
 A production-ready system for real-time multi-object detection on live video streams from mobile phones via WebRTC. Features dual-mode inference (client-side WASM or server-side processing), advanced performance metrics, smart frame queue management with backpressure handling, and automatic ngrok tunneling with QR code generation.
