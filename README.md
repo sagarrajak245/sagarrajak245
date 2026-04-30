@@ -16,7 +16,8 @@ I love exploring new technologies, solving problems, and building innovative pro
 - 💬 Ask me about **JavaScript, Python, Tailwind CSS, MongoDB, AI/ML, Data Science, Backend Systems,java**  
 - 📫 How to reach me: **[sagarrajak245@gmail.com](mailto:sagarrajak245@gmail.com)**  
 - ⚡ Fun fact: **I’m great at GK, cricket, and have a bit of MMA & boxing skills**  
-- 🌐 **Portfolio:** [Click Here](https://portfolio-1-rho-one.vercel.app/)  
+- 🌐 **Portfolio:** [Click Here](https://portfolio-1-rho-one.vercel.app/)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarrajak245)
 
 ---
 
