@@ -17,7 +17,7 @@ I love exploring new technologies, solving problems, and building innovative pro
 - 📫 How to reach me: **[sagarrajak245@gmail.com](mailto:sagarrajak245@gmail.com)**  
 - ⚡ Fun fact: **I’m great at GK, cricket, and have a bit of MMA & boxing skills**  
 - 🌐 **Portfolio:** [Click Here](https://portfolio-1-rho-one.vercel.app/)
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarrajak245)
+
 
 ---
 
