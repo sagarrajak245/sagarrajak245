@@ -31,13 +31,20 @@ I build production multi-agent systems, voice AI and event-driven backends that 
 - Engineered a **multi-channel SDR automation** pipeline (LinkedIn, Email, WhatsApp) with AI lead enrichment, cutting manual marketing effort by ~60%
 - Replaced third-party voice orchestration with an **in-house voice AI stack**: multilingual STT/TTS, LangGraph agent workflows and real-time telephony, with provider-agnostic, fault-tolerant execution
 
-**Kinzy Club Pvt Ltd (Subsidiary of Redscope Inc.)** – *Backend Engineer* (Nov 2024 – Feb 2025)
-- Built secure JWT authentication with Java & Spring Boot for high-traffic APIs
+**Kinzy Club Pvt Ltd (Subsidiary of Redscope Inc.)** – *Founding Backend Engineer (Intern)* (Nov 2024 – Feb 2025)
+- Joined as a founding engineer and built core backend services in Java & Spring Boot
+- Built secure JWT authentication with request interceptors and route-level protection for high-traffic APIs
 - Removed sequential scans on 42 hot queries with targeted indexes: **10 ms → 2 ms (5x faster)**
-- Developed a Redis-backed feed system and distributed scheduling with Spring Scheduler + ShedLock
+- Developed a Redis-backed feed system and used partial indexes on active records to take read load off the primary DB
+- Scheduled distributed background jobs with Spring Scheduler + ShedLock so no task ran twice across instances
+- Wrote unit and integration tests with JUnit, MockMvc and Spring Test for regression safety before each release
 
 **AI-Colegion, VESIT** – *Technical Officer* (Aug 2023 – May 2026)
-- Led 3 MERN-stack projects and trained **350+ students** through Flutter, Machine Learning and Agentic AI (CrewAI) workshops
+- Led the club's technical team through **3 MERN-stack projects**, from planning and architecture to delivery
+- Trained **350+ students** in total across Flutter, Machine Learning and Agentic AI workshops
+- Instructed a hands-on **Flutter workshop for 180+ students**, from setup to building and running their first cross-platform app
+- Led a **Machine Learning workshop for 100+ students** on core concepts, model training and evaluation with code-along examples
+- Ran an **Agentic AI workshop for 80+ students** on how agents plan, use tools and collaborate, teaching **CrewAI** for multi-agent orchestration
 
 ---
 
